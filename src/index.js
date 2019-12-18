@@ -110,6 +110,7 @@ form.addEventListener('submit', (event) => {
     .then((newquote) => {
       renderQuotes([newquote]);
       quoteInput.value = '';
+      authorInput.value = '';
     });
 });
 

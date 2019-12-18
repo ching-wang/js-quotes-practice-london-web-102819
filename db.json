@@ -41,6 +41,12 @@
       "author": "Matthew",
       "likes": [],
       "id": 9
+    },
+    {
+      "quote": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live",
+      "author": "John Woods",
+      "likes": [],
+      "id": 10
     }
   ],
   "likes": [
@@ -236,6 +242,10 @@
     {
       "quoteId": 8,
       "id": 60
+    },
+    {
+      "quoteId": 9,
+      "id": 61
     }
   ]
 }
